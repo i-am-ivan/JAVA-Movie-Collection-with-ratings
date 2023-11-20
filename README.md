@@ -9,9 +9,10 @@ Welcome to the Java Movie Collection repository! 🍿 This project is a cinemati
 - **Oracle 12c Integration:** Secure and reliable data storage with Oracle 12c, ensuring your movie data is in good hands.
 
 ## Setup 🛠️
-1. Clone the repository: `git clone https://github.com/your-username/java-movie-collection.git`
-2. Configure Oracle 12c database settings in `application.properties`.
-3. Build and run the project using your favorite IDE.
+1. Clone the repository:
+   `git clone https://github.com/i-am-ivan/JAVA-Movie-Collection-with-ratings.git`
+3. Configure Oracle 12c database settings in `application.properties`.
+4. Build and run the project using your favorite IDE.
 
 ## Contribution Guidelines 🤝
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest enhancements. Let's collaborate to make this movie collection even more extraordinary!
